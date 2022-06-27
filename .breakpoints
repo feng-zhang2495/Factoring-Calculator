@@ -1,0 +1,50 @@
+{
+  "files": {
+    "factor.py": [
+      {
+        "id": "4b9a122c-f754-4c88-97ef-746789adef35",
+        "line": 4,
+        "version": 12286,
+        "index": 21
+      },
+      {
+        "id": "228d1c9e-ad4c-4007-8464-0412783002d4",
+        "line": 6,
+        "version": 12286,
+        "index": 94
+      },
+      {
+        "id": "f40c70d3-a005-460a-ab62-1ef0f4d659ad",
+        "line": 160,
+        "version": 12286,
+        "index": 2675
+      },
+      {
+        "id": "98bc165a-ac8a-40ed-9681-0ea7e0e429fd",
+        "line": 164,
+        "version": 12286,
+        "index": 2783
+      }
+    ],
+    "main.py": [
+      {
+        "id": "fbc14ff1-0592-42b0-87c9-a186b37d22fb",
+        "line": 1,
+        "version": 2244,
+        "index": 0
+      },
+      {
+        "id": "612a3473-1c03-4f82-94b8-b1481bd6e506",
+        "line": 17,
+        "version": 2244,
+        "index": 604
+      },
+      {
+        "id": "397c878f-d9f4-4ad9-81ce-ace48619929a",
+        "line": 49,
+        "version": 2244,
+        "index": 1087
+      }
+    ]
+  }
+}
